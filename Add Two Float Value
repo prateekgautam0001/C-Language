@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+	float x=9.40,y=21.14,sum;
+	sum=x+y;
+	printf("Total is: %.2f",sum);
+	return 0;
+	
+}
